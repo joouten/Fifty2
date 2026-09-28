@@ -4,8 +4,8 @@ A stock tracking app for Android and iPhone that displays the 52-week high,
 current price, and 52-week low for user-selected stocks. Users receive push 
 notifications when a stock hits its 52-week high or low.
 
-Built by a non-developer using AI-assisted development — zero prior coding 
-experience. Currently in closed alpha testing on Google Play.
+Built solo with AI-assisted development. 
+Currently in closed alpha testing on Google Play.
 
 <img src="assets/screenshots/app-preview.png" width="300" alt="Fifty2 App Preview">
 
@@ -57,6 +57,6 @@ privileged access. Security is enforced through:
 ## About
 
 Built as a solo project to learn AI-assisted mobile development. Every line 
-of code was written in collaboration with Claude. The project demonstrates 
-what's possible when domain knowledge and AI capability combine — shipping 
-a production-grade app with no prior coding background.
+of code was written in collaboration with Claude. The project shows 
+what's possible when domain knowledge and AI capability combine. 
+
